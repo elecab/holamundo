@@ -7,6 +7,7 @@
  * # MainCtrl
  * Controller of the 01HolaMundoApp
  */
+/*hola*/
 angular.module('01HolaMundoApp')
   .controller('MainCtrl', function () {
     
